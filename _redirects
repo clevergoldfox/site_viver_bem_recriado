@@ -1,0 +1,6 @@
+# Dominio antigo (erro de digitacao) -> dominio oficial, 301 permanente.
+# O "!" forca o redirect mesmo existindo arquivo no mesmo caminho.
+http://viverbmnegocios.com/*       https://viverbemnegocios.com/:splat  301!
+https://viverbmnegocios.com/*      https://viverbemnegocios.com/:splat  301!
+http://www.viverbmnegocios.com/*   https://viverbemnegocios.com/:splat  301!
+https://www.viverbmnegocios.com/*  https://viverbemnegocios.com/:splat  301!
