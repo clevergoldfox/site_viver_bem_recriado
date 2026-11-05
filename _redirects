@@ -1,0 +1,6 @@
+# Netlify only (GitHub Pages ignores this file and just serves it).
+# Dominio antigo (erro de digitacao) -> dominio oficial, 301 permanente.
+http://viverbmnegocios.com/*       https://viverbemnegocios.com/:splat  301!
+https://viverbmnegocios.com/*      https://viverbemnegocios.com/:splat  301!
+http://www.viverbmnegocios.com/*   https://viverbemnegocios.com/:splat  301!
+https://www.viverbmnegocios.com/*  https://viverbemnegocios.com/:splat  301!
